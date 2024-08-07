@@ -1,5 +1,9 @@
 # Mega Payer Digital Wallet
-![Home Screen](https://github.com/user-attachments/assets/d22bdb47-587a-479a-8578-4edc5da52995)
+
+<p float="center">
+ <img src="https://github.com/user-attachments/assets/3ce34be9-a863-41ce-9fe7-96c085919a5d" width="800" height="800" />
+</p>
+
 ## Overview
 Mega Payer Digital Wallet is a comprehensive blockchain wallet that offers a user-friendly interface for managing cryptocurrencies and NFTs. With functionality similar to MetaMask, Mega Payer enhances the user experience with additional features, including advanced settings and integrated support options.
 
@@ -17,7 +21,7 @@ Mega Payer Digital Wallet is a comprehensive blockchain wallet that offers a use
   - **NFTs Tab**: Manage your Non-Fungible Tokens (NFTs) with detailed information, including artwork, metadata, and transaction history. Users can send NFTs to other addresses seamlessly.
 
 ## Bot Previews
-<p float="left">
+<p float="center">
   <img src="https://github.com/user-attachments/assets/3ce34be9-a863-41ce-9fe7-96c085919a5d" width="400" />
   <img src="https://github.com/user-attachments/assets/d22bdb47-587a-479a-8578-4edc5da52995" width="400" />
   <img src="https://github.com/user-attachments/assets/df65552c-3533-4a5b-9f7a-4ba9e07164a2" width="400" />
