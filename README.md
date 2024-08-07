@@ -1,4 +1,4 @@
-# Mega Payer Digital Wallet
+# Crypto Digital Wallet
 
 <p float="center">
  <img src="https://github.com/user-attachments/assets/5f451879-ca2b-4f6b-9594-c41a2035704e" width="800" height="800" />
