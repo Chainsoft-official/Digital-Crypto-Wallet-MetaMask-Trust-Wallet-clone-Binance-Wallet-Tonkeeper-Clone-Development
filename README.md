@@ -1,7 +1,7 @@
 # Mega Payer Digital Wallet
 
 <p float="center">
- <img src="https://github.com/user-attachments/assets/3ce34be9-a863-41ce-9fe7-96c085919a5d" width="800" height="800" />
+ <img src="https://github.com/user-attachments/assets/5f451879-ca2b-4f6b-9594-c41a2035704e" width="800" height="800" />
 </p>
 
 ## Overview
@@ -22,10 +22,11 @@ Mega Payer Digital Wallet is a comprehensive blockchain wallet that offers a use
 
 ## Bot Previews
 <p float="center">
+ <img src="https://github.com/user-attachments/assets/5f451879-ca2b-4f6b-9594-c41a2035704e" width="400" />
   <img src="https://github.com/user-attachments/assets/3ce34be9-a863-41ce-9fe7-96c085919a5d" width="400" />
   <img src="https://github.com/user-attachments/assets/d22bdb47-587a-479a-8578-4edc5da52995" width="400" />
   <img src="https://github.com/user-attachments/assets/df65552c-3533-4a5b-9f7a-4ba9e07164a2" width="400" />
-  <img src="https://github.com/user-attachments/assets/5f451879-ca2b-4f6b-9594-c41a2035704e" width="400" />
+  
   
  
 </p>
