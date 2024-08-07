@@ -36,8 +36,6 @@ Mega Payer Digital Wallet is a comprehensive blockchain wallet that offers a use
 ### Integrated Web View for dApps
 - **Web View Tab**: Access decentralized applications (dApps) directly within the wallet. Engage with DeFi protocols, explore NFT marketplaces, and interact with various dApps securely.
 
-![Detailed Insights](https://github.com/user-attachments/assets/df65552c-3533-4a5b-9f7a-4ba9e07164a2)
-
 ### Extensive Settings and Customization
 - **My Wallet Address**: View and manage wallet addresses.
 - **Manage Wallet**: Secure the wallet with passwords, biometric authentication, and backup options. Import or create new wallets and manage private keys.
