@@ -55,6 +55,18 @@ Mega Payer Digital Wallet is a comprehensive blockchain wallet that offers a use
 ## Conclusion
 Mega Payer Digital Wallet offers a secure and comprehensive solution for managing digital assets. With its familiar yet enhanced interface, it provides an excellent experience for both novice and experienced blockchain users. Explore the world of cryptocurrencies and NFTs with confidence and ease using Mega Payer.
 
+## How to Buy
+To purchase our game clone,
+
+please visit our official [Website](https://www.chainsoft.pk/taptoearn).
+
+For inquiries or support,
+
+contact us via [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share).
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/226a790b-9dc6-4425-a735-54f83cdac537" width="200" />
+</p>
 ## 💼 Why Choose Us?
 
 - **Expert Team**: Our team of blockchain experts has years of experience in developing cutting-edge blockchain solutions.
@@ -66,15 +78,4 @@ Mega Payer Digital Wallet offers a secure and comprehensive solution for managin
 Ready to take your business to the next level with our blockchain development service? Contact us today to get started!
 
 
-- **WhatsApp**: +923066303835
-
-## 🛒 Buying
-
-Contact Me: [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share)
-
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/226a790b-9dc6-4425-a735-54f83cdac537" width="200" />
-</p>
-
-Let's build the future together! 🚀
-
+For any further questions or support, please don't hesitate to contact us via our [Website](https://www.chainsoft.pk/) or [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share).
